@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="course_title">
+        <item>Apply 5S Techniques Sample</item>
+        <item>Apply Quality Systems</item>
+        <item>Perform Basic Productivity</item>
+        <item>Facilitate Effective Work Teams</item>
+        <item>Supervise Quality Procedures</item>
+        <item>Foster Team Adaptability</item>
+    </string-array>
+
+    <string-array name="course_date">
+        <item>15-Jul-2016</item>
+        <item>16-Jul-2016</item>
+        <item>17-Jul-2016</item>
+        <item>18-Jul-2016</item>
+        <item>19-Jul-2016</item>
+        <item>20-Jul-2016</item>
+    </string-array>
+
+    <string-array name="course_cat">
+        <item>Analytical, Conceptual &#038; Evaluative Skills</item>
+        <item>Information &#038; Communication Technologies</item>
+        <item>Interpersonal Skills</item>
+        <item>Personal Management And Development Skills</item>
+        <item>Workplace Literacy*</item>
+        <item>Personal Effectiveness</item>
+    </string-array>
+
+    <string-array name="course_desc">
+        <item>Test course description 1
+        </item>
+        <item>Test course description 2
+        </item>
+        <item>Test course description 3
+        </item>
+        <item>Test course description 4
+        </item>
+        <item>Test course description 5
+        </item>
+        <item>Test course description 6
+        </item>
+    </string-array>
+
+    <string-array name="course_about">
+        <item>Identify global trends and changes that affect the workplace,
+            undertake lifelong learning principles to adapt to changes for sustained employability,
+            and construct a work ethic that continuously reflects new knowledge and skills that enhance
+            productivity and effectiveness in a diverse workplace.</item>
+    </string-array>
+
+    <string-array name="name_contact">
+        <item>Princess Alto</item>
+    </string-array>
+
+    <string-array name="course_outline">
+        <item>
+            \u2022 Access available sources of information to identify global
+        </item>
+    </string-array>
+
+    <string-array name="course_sched">
+        <item>
+            There are no upcoming events for this course.
+        </item>
+    </string-array>
+
+    <string-array name="course_fee">
+        <item>$295.00 SGD</item>
+    </string-array>
+
+    <string-array name="course_subtitle">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Deserunt distinctio enim eveniet expedita id impedit ipsum iusto laboriosam
+        molestiae nobis obcaecati odio officiis quam quibusdam, quod reiciendis repellat
+        voluptas voluptates.</item>
+    </string-array>
+
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+
+    <array name="contact_banner">
+        <item>@drawable/e</item>
+    </array>
+
+    <string-array name="contact_address">
+        <item>
+11 Eunos Road 8 #06-01 Lobby A, Lifelong Learning Institute, Singapore 408601</item>
+    </string-array>
+
+    <string-array name="contact_phone">
+        <item>+65 6842 2282</item>
+    </string-array>
+
+    <string-array name="contact_email">
+        <item>contact@ssagroup.com</item>
+    </string-array>
+
+</resources>

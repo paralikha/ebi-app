@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">"SSA Trainer"</string>
+    <string name="action_contact">Contact Us</string>
+    <string name="action_search">Search</string>
+    <string name="item_title">Facilitate Effective Work Teams Facilitate Effective Work Teams</string>
+    <string name="item_date">15-Jul-2016</string>
+    <string name="item_desc">Productivity</string>
+    <string name="detail_desc">This is the detail description example. What to say</string>
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_filter">Filter</string>
+    <string name="version">Version</string>
+
+    <string-array name="programs">
+        <item>Select Categories</item>
+        <item>Program 1</item>
+        <item>Program 2</item>
+        <item>Program 3</item>
+        <item>Program 4</item>
+        <item>Program 5</item>
+    </string-array>
+
+    <!--Floating Label-->
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+    <!--Schedule Time-->
+    <string name="schedule_hours">8:00am - 5:00pm</string>
+
+    <!--Intro Slider-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to SSA Training</string>
+    <string name="slide_1_desc">Our training services are designed to bring out the best in every member of Singapore\'s workforce.</string>
+
+    <string name="slide_2_title">Our Programs</string>
+    <string name="slide_2_desc">Browse from any courses on more than 10 different categories</string>
+
+    <string name="slide_3_title">View Schedules</string>
+    <string name="slide_3_desc">Start enrolling in your favorite course and view their available schedules.</string>
+
+    <string name="slide_4_title">Course Details?</string>
+    <string name="slide_4_desc">View the course outline, schedules, and more.</string>
+</resources>
